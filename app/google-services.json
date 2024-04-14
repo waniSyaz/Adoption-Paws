@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922641550693",
+    "firebase_url": "https://adoptionpets-52d8b-default-rtdb.firebaseio.com",
+    "project_id": "adoptionpets-52d8b",
+    "storage_bucket": "adoptionpets-52d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922641550693:android:dc5fdd36f1c0b26de9e58c",
+        "android_client_info": {
+          "package_name": "com.example.adoptionpets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHV-M4ir6P6CgutRPMWWXL-X3rxj0Xwgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
